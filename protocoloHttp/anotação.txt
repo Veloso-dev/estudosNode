@@ -1,0 +1,6 @@
+//(createServer)precisa abrir um servidor para se comunicar com o cliente| 
+(listen) serve para informar qual porta de rede voce quer usar o seu servidor.
+//(end) serve para mandar uma resposta ao usuario que esta acessando o servidor criado
+
+
+
